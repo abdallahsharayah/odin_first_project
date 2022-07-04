@@ -1,2 +1,2 @@
 # odin_first_project
-Just building the projects :/ 
+Just building the projects
